@@ -1,2 +1,2 @@
 # scripts
-Shell scripts for node operations
+Shell scripts for Radix validator node operations and maintenance
